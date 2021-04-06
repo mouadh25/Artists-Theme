@@ -17,6 +17,7 @@ In order to get this super fantastic [Jekyll](http://jekyllrb.com) powered templ
 * **DONE**
 
 Isn't it fantastic?
+Actually yes i think so too
 
 Learn how to [use Jekyll on windows](http://jekyll-windows.juthilo.com/) (if that's your thing :)
 
